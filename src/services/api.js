@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://meme-hustle-backend.vercel.app/api';
 
 const api = {
   getMemes: async () => {
