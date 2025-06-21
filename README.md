@@ -1,6 +1,6 @@
 # Meme Platform API
 
-A Node.js/Express-based meme sharing and bidding platform with real-time features, AI-generated captions, and social voting functionality.
+A React.js, Node.js/Express-based meme sharing and bidding platform with real-time features, AI-generated captions, and social voting functionality.
 
 ## Features
 
